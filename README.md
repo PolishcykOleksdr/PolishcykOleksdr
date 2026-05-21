@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**PolishcykOleksdr/PolishcykOleksdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Oleksandr java backend developer based in Ukraine.
+I mostly work with developing backend APIs and providing thair stability.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools that i use:
+- Java
+- Spring Boot
+  - Web
+  - JPA
+  - Document Open API (Swagger)
+- Lobmok
+- Hibernate
+- MapStruct
+- Jackson
+- JUnit
+- SQL (Postgres)
