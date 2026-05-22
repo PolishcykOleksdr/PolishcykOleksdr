@@ -15,3 +15,4 @@ I mostly work with developing backend APIs and providing thair stability.
 - Jackson
 - JUnit
 - SQL (Postgres)
+- NoSQL (Mongo)
