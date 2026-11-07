@@ -1,5 +1,5 @@
 # About Me:
-## Hi! I'm Oleksandr<br><br>I`m java backend developer based in Ukraine, <br>focusing on building scalable backend APIs, microservices, and ensuring system stability.
+## Hi!!!! I'm Oleksandr<br><br>I`m building scalable backend APIs on Spring boot (java), and learning AI models
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/polishchuk-oleksandr-746087360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashap07072010@gmail.com) 
